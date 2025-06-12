@@ -1,0 +1,14 @@
+.highlight{
+            color: blue;
+            background-color: beige;
+            font-size: 100%;
+        }
+        .idea{
+            color: blueviolet;
+        }
+        p:hover{
+            color: rgb(0, 255, 115);
+        }
+        a:hover{
+            background-color: bisque;
+        }
