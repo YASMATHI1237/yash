@@ -180,15 +180,22 @@ body {
         background-color: lightpink;
         text-align: center;
         grid-column-start: 1;
-        grid-column-end: 4;
+        grid-column-end: 5;
     }
     
     .item2{
         background-color: lightsalmon;
         text-align: center;
         grid-column-start: 1;
-        grid-column-end: 4;
+        grid-column-end: 5;
     }
+    .item3{
+        background-color: lightslategrey;
+        text-align: center;
+        grid-column-start: 1;
+        grid-column-end: 3;
+    }
+    
 
     
 
